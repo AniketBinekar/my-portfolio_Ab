@@ -236,7 +236,7 @@ export const Bio = {
       date: "Aug 2018 - May 2022",
       grade: "8.04 CGPA",
       desc: "I Completed my a Bachelor's degree in Information Technology at Priyadarshini Bhagwati College Of Engineering. I have completed My Bachelor's Degree and have a CGPA of 8.04. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
-      degree: "Bachelor of Engineering - BE, Information Technology",
+      degree: "Bachelor of Engineering - BE, Information Technology_s",
     },
     {
       id: 1,
